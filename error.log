@@ -1,0 +1,15 @@
+18:24:58.026 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Constructor
+18:24:58.028 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Constructor
+18:25:44.265 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Constructor
+18:26:10.798 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Constructor
+18:27:51.132 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor
+18:27:51.133 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor
+18:27:51.135 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor
+18:27:51.136 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor
+18:27:51.139 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor
+01:41:43.328 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor
+01:41:49.142 [main] ERROR c.u.u.h.t.e.ProductNotFoundException - MethodeName : ProductNotFoundException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor
+01:42:39.787 [main] ERROR c.u.u.h.t.e.ProductAlreadyExisteException - MethodeName : ProductAlreadyExisteException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor
+01:42:39.787 [main] ERROR c.u.u.h.t.e.ProductAlreadyExisteException - MethodeName : ProductAlreadyExisteException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor
+01:42:39.787 [main] ERROR c.u.u.h.t.e.ProductAlreadyExisteException - MethodeName : ProductAlreadyExisteException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor
+01:42:39.787 [main] ERROR c.u.u.h.t.e.ProductAlreadyExisteException - MethodeName : ProductAlreadyExisteException;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Constructor

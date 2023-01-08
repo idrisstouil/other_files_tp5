@@ -1,0 +1,178 @@
+18:23:44.034 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setID;User [ID=null, name=null, age=null, email=null];478f19b0307a4fbdbf69129b10be8ad1
+18:23:44.034 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setName;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=null, age=null, email=null];TOUIL Idriss
+18:23:44.035 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setAge;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=null, email=null];25
+18:23:44.035 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setEmail;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=null];idriss@gmail.com
+18:23:44.035 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setPassword;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];123
+18:23:44.040 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];Product [ID=1, name=Bread, price=1.99, expirationDate=12/02/2023]
+18:23:44.041 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.041 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];1
+18:23:44.042 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];Product [ID=2, name=Pasta, price=7.22, expirationDate=10/02/2023]
+18:23:44.043 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.043 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];2
+18:23:44.043 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.043 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];Product [ID=3, name=Eggs pack of 6, price=3.99, expirationDate=01/06/2023]
+18:23:44.043 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.044 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];3
+18:23:44.044 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.044 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.044 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];Product [ID=4, name=Rice, price=2.99, expirationDate=01/12/2023]
+18:23:44.045 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.045 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];4
+18:23:44.045 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.045 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.045 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.046 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];Product [ID=5, name=Chicken, price=9.66, expirationDate=06/12/2023]
+18:23:44.046 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.046 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];5
+18:23:44.046 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.047 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.047 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:44.047 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:54.567 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getAllProducts;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:55.948 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getAllProducts;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:56.973 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getAllProducts;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:58.213 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getAllProducts;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:23:58.948 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getAllProducts;User [ID=478f19b0307a4fbdbf69129b10be8ad1, name=TOUIL Idriss, age=25, email=idriss@gmail.com];no parameters given
+18:24:38.945 [main] INFO  c.u.u.hai913i.tp5.Application - Starting Application using Java 11.0.16.1 on DESKTOP-20L5GGD with PID 49564 (C:\Users\pc\Desktop\hai913i.tp5\target\classes started by pc in C:\Users\pc\Desktop\hai913i.tp5)
+18:24:38.955 [main] INFO  c.u.u.hai913i.tp5.Application - No active profile set, falling back to 1 default profile: "default"
+18:24:41.463 [main] INFO  c.u.u.hai913i.tp5.Application - Started Application in 4.188 seconds (JVM running for 7.387)
+18:24:41.483 [main] INFO  c.u.u.hai913i.tp5.Application - MethodeName : initSession;User [ID=null, name=null, age=null, email=null];no parameters given
+18:24:58.013 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setID;User [ID=null, name=null, age=null, email=null];b29d6b7ef02042af9332abce86194988
+18:24:58.013 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setName;User [ID=b29d6b7ef02042af9332abce86194988, name=null, age=null, email=null];Lahcen Ftih
+18:24:58.013 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setAge;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=null, email=null];24
+18:24:58.013 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setEmail;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=null];lahcen@gmail.com
+18:24:58.014 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setPassword;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];123
+18:24:58.020 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Product [ID=1, name=Bread, price=1.99, expirationDate=12/02/2023]
+18:24:58.021 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.021 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];1
+18:24:58.022 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Product [ID=2, name=Pasta, price=7.22, expirationDate=10/02/2023]
+18:24:58.023 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.023 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];2
+18:24:58.023 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.024 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Product [ID=3, name=Eggs pack of 6, price=3.99, expirationDate=01/06/2023]
+18:24:58.025 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.025 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];3
+18:24:58.025 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.025 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.025 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Product [ID=4, name=Rice, price=2.99, expirationDate=01/12/2023]
+18:24:58.026 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.026 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];4
+18:24:58.026 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.026 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.026 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.027 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Product [ID=5, name=Chicken, price=9.66, expirationDate=06/12/2023]
+18:24:58.027 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.027 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];5
+18:24:58.028 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.028 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.028 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:24:58.028 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:25:22.648 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getAllProducts;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:25:44.263 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Product [ID=6, name=new 6, price=22, expirationDate=2026]
+18:25:44.264 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:25:44.264 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];6
+18:25:44.264 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:25:44.264 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:25:44.264 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:25:44.265 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:25:44.265 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:10.796 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Product [ID=new product 2, name=new product 2, price=22, expirationDate=2026]
+18:26:10.796 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:10.796 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];new product 2
+18:26:10.797 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:10.797 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:10.797 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:10.797 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:10.797 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:10.798 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.956 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : updateProduct;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];Product [ID=new product 2, name=update test, price=2, expirationDate=2023]
+18:26:53.958 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.958 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];new product 2
+18:26:53.958 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.959 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.959 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.959 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.959 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.959 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.959 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.959 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.961 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.961 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.961 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.961 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.961 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.961 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.961 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.961 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.962 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.962 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.962 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.962 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.964 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.964 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getName;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.964 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : setName;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];update test
+18:26:53.964 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getPrice;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.964 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : setPrice;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];2
+18:26:53.964 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getDateExpiration;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:26:53.964 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : setDateExpiration;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];2023
+18:27:03.664 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getAllProducts;User [ID=b29d6b7ef02042af9332abce86194988, name=Lahcen Ftih, age=24, email=lahcen@gmail.com];no parameters given
+18:27:30.778 [main] INFO  c.u.u.hai913i.tp5.Application - Starting Application using Java 11.0.16.1 on DESKTOP-20L5GGD with PID 89780 (C:\Users\pc\Desktop\hai913i.tp5\target\classes started by pc in C:\Users\pc\Desktop\hai913i.tp5)
+18:27:30.788 [main] INFO  c.u.u.hai913i.tp5.Application - No active profile set, falling back to 1 default profile: "default"
+18:27:33.145 [main] INFO  c.u.u.hai913i.tp5.Application - Started Application in 3.761 seconds (JVM running for 6.293)
+18:27:33.164 [main] INFO  c.u.u.hai913i.tp5.Application - MethodeName : initSession;User [ID=null, name=null, age=null, email=null];no parameters given
+18:27:51.119 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setID;User [ID=null, name=null, age=null, email=null];8e8bf05cb3d54d8bb09f1a66ea286ac6
+18:27:51.119 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setName;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=null, age=null, email=null];User 3
+18:27:51.120 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setAge;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=null, email=null];31
+18:27:51.120 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setEmail;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=null];user3@hotmail.fr
+18:27:51.121 [main] INFO  c.u.u.hai913i.tp5.model.User - MethodeName : setPassword;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];123
+18:27:51.130 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Product [ID=1, name=Bread, price=1.99, expirationDate=12/02/2023]
+18:27:51.130 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.131 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];1
+18:27:51.133 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Product [ID=2, name=Pasta, price=7.22, expirationDate=10/02/2023]
+18:27:51.133 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.133 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];2
+18:27:51.133 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.134 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Product [ID=3, name=Eggs pack of 6, price=3.99, expirationDate=01/06/2023]
+18:27:51.134 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.134 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];3
+18:27:51.135 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.135 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.135 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Product [ID=4, name=Rice, price=2.99, expirationDate=01/12/2023]
+18:27:51.135 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.136 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];4
+18:27:51.136 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.136 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.136 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.137 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : addProduct;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];Product [ID=5, name=Chicken, price=9.66, expirationDate=06/12/2023]
+18:27:51.137 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.138 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : checkProductById;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];5
+18:27:51.138 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.138 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.138 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:51.139 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+18:27:52.405 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getAllProducts;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:52:29.383 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getProductById;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];5
+22:52:29.400 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:52:29.401 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:52:29.401 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:52:29.401 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:52:29.401 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:52:51.350 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getProductById;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];2
+22:52:51.350 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:52:51.350 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:52:53.727 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getAllProducts;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:53:05.121 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getProductById;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];5
+22:53:05.122 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:53:05.122 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:53:05.122 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:53:05.122 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:53:05.123 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:53:11.928 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getProductById;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];5
+22:53:11.928 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:53:11.928 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:53:11.928 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:53:11.928 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:53:11.929 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:54:11.027 [main] INFO  c.u.u.h.tp5.service.ProductService - MethodeName : getProductById;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];2
+22:54:11.028 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given
+22:54:11.029 [main] INFO  c.u.u.hai913i.tp5.model.Product - MethodeName : getID;User [ID=8e8bf05cb3d54d8bb09f1a66ea286ac6, name=User 3, age=31, email=user3@hotmail.fr];no parameters given

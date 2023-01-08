@@ -1,0 +1,2280 @@
+[
+  {
+    "time": "18:23:44.034",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setID",
+    "logMessage": "MethodeName : setID;User [ID\u003dnull, name\u003dnull, age\u003dnull, email\u003dnull];478f19b0307a4fbdbf69129b10be8ad1",
+    "user": {
+      "id": "null",
+      "name": "null",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:23:44.034",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setName",
+    "logMessage": "MethodeName : setName;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dnull, age\u003dnull, email\u003dnull];TOUIL Idriss",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "null",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:23:44.035",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setAge",
+    "logMessage": "MethodeName : setAge;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003dnull, email\u003dnull];25",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:23:44.035",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setEmail",
+    "logMessage": "MethodeName : setEmail;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003dnull];idriss@gmail.com",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:23:44.035",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setPassword",
+    "logMessage": "MethodeName : setPassword;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];123",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.040",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];Product [ID\u003d1, name\u003dBread, price\u003d1.99, expirationDate\u003d12/02/2023]",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.041",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.041",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];1",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.042",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];Product [ID\u003d2, name\u003dPasta, price\u003d7.22, expirationDate\u003d10/02/2023]",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.043",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.043",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];2",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.043",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.043",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];Product [ID\u003d3, name\u003dEggs pack of 6, price\u003d3.99, expirationDate\u003d01/06/2023]",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.043",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.044",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];3",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.044",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.044",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.044",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];Product [ID\u003d4, name\u003dRice, price\u003d2.99, expirationDate\u003d01/12/2023]",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.045",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.045",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];4",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.045",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.045",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.045",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.046",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];Product [ID\u003d5, name\u003dChicken, price\u003d9.66, expirationDate\u003d06/12/2023]",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.046",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.046",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];5",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.046",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.047",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.047",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:44.047",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:54.567",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getAllProducts",
+    "logMessage": "MethodeName : getAllProducts;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:55.948",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getAllProducts",
+    "logMessage": "MethodeName : getAllProducts;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:56.973",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getAllProducts",
+    "logMessage": "MethodeName : getAllProducts;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:58.213",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getAllProducts",
+    "logMessage": "MethodeName : getAllProducts;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:23:58.948",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getAllProducts",
+    "logMessage": "MethodeName : getAllProducts;User [ID\u003d478f19b0307a4fbdbf69129b10be8ad1, name\u003dTOUIL Idriss, age\u003d25, email\u003didriss@gmail.com];no parameters given",
+    "user": {
+      "id": "478f19b0307a4fbdbf69129b10be8ad1",
+      "name": "TOUIL Idriss",
+      "age": "25",
+      "email": "idriss@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:38.945",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "",
+    "logMessage": "Starting Application using Java 11.0.16.1 on DESKTOP-20L5GGD with PID 49564 (C:\\Users\\pc\\Desktop\\hai913i.tp5\\target\\classes started by pc in C:\\Users\\pc\\Desktop\\hai913i.tp5)"
+  },
+  {
+    "time": "18:24:38.955",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "",
+    "logMessage": "No active profile set, falling back to 1 default profile: \"default\""
+  },
+  {
+    "time": "18:24:41.463",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "",
+    "logMessage": "Started Application in 4.188 seconds (JVM running for 7.387)"
+  },
+  {
+    "time": "18:24:41.483",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "initSession",
+    "logMessage": "MethodeName : initSession;User [ID\u003dnull, name\u003dnull, age\u003dnull, email\u003dnull];no parameters given",
+    "user": {
+      "id": "null",
+      "name": "null",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:24:58.013",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setID",
+    "logMessage": "MethodeName : setID;User [ID\u003dnull, name\u003dnull, age\u003dnull, email\u003dnull];b29d6b7ef02042af9332abce86194988",
+    "user": {
+      "id": "null",
+      "name": "null",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:24:58.013",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setName",
+    "logMessage": "MethodeName : setName;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dnull, age\u003dnull, email\u003dnull];Lahcen Ftih",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "null",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:24:58.013",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setAge",
+    "logMessage": "MethodeName : setAge;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003dnull, email\u003dnull];24",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:24:58.013",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setEmail",
+    "logMessage": "MethodeName : setEmail;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dnull];lahcen@gmail.com",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:24:58.014",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setPassword",
+    "logMessage": "MethodeName : setPassword;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];123",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.020",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];Product [ID\u003d1, name\u003dBread, price\u003d1.99, expirationDate\u003d12/02/2023]",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.021",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.021",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];1",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.022",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];Product [ID\u003d2, name\u003dPasta, price\u003d7.22, expirationDate\u003d10/02/2023]",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.023",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.023",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];2",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.023",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.024",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];Product [ID\u003d3, name\u003dEggs pack of 6, price\u003d3.99, expirationDate\u003d01/06/2023]",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.025",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.025",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];3",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.025",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.025",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.025",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];Product [ID\u003d4, name\u003dRice, price\u003d2.99, expirationDate\u003d01/12/2023]",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.026",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.026",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];4",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.026",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.026",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.026",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.027",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];Product [ID\u003d5, name\u003dChicken, price\u003d9.66, expirationDate\u003d06/12/2023]",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.027",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.027",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];5",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.028",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.028",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.028",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:24:58.028",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:25:22.648",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getAllProducts",
+    "logMessage": "MethodeName : getAllProducts;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:25:44.263",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];Product [ID\u003d6, name\u003dnew 6, price\u003d22, expirationDate\u003d2026]",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:25:44.264",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:25:44.264",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];6",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:25:44.264",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:25:44.264",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:25:44.264",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:25:44.265",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:25:44.265",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:10.796",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];Product [ID\u003dnew product 2, name\u003dnew product 2, price\u003d22, expirationDate\u003d2026]",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:10.796",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:10.796",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];new product 2",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:10.797",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:10.797",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:10.797",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:10.797",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:10.797",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:10.798",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.956",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "updateProduct",
+    "logMessage": "MethodeName : updateProduct;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];Product [ID\u003dnew product 2, name\u003dupdate test, price\u003d2, expirationDate\u003d2023]",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.958",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.958",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];new product 2",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.958",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.959",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.959",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.959",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.959",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.959",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.959",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.959",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.961",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.961",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.961",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.961",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.961",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.961",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.961",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.961",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.962",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.962",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.962",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.962",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.964",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.964",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getName",
+    "logMessage": "MethodeName : getName;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.964",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setName",
+    "logMessage": "MethodeName : setName;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];update test",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.964",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getPrice",
+    "logMessage": "MethodeName : getPrice;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.964",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setPrice",
+    "logMessage": "MethodeName : setPrice;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];2",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.964",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getDateExpiration",
+    "logMessage": "MethodeName : getDateExpiration;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:26:53.964",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setDateExpiration",
+    "logMessage": "MethodeName : setDateExpiration;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];2023",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:27:03.664",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getAllProducts",
+    "logMessage": "MethodeName : getAllProducts;User [ID\u003db29d6b7ef02042af9332abce86194988, name\u003dLahcen Ftih, age\u003d24, email\u003dlahcen@gmail.com];no parameters given",
+    "user": {
+      "id": "b29d6b7ef02042af9332abce86194988",
+      "name": "Lahcen Ftih",
+      "age": "24",
+      "email": "lahcen@gmail.com"
+    }
+  },
+  {
+    "time": "18:27:30.778",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "",
+    "logMessage": "Starting Application using Java 11.0.16.1 on DESKTOP-20L5GGD with PID 89780 (C:\\Users\\pc\\Desktop\\hai913i.tp5\\target\\classes started by pc in C:\\Users\\pc\\Desktop\\hai913i.tp5)"
+  },
+  {
+    "time": "18:27:30.788",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "",
+    "logMessage": "No active profile set, falling back to 1 default profile: \"default\""
+  },
+  {
+    "time": "18:27:33.145",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "",
+    "logMessage": "Started Application in 3.761 seconds (JVM running for 6.293)"
+  },
+  {
+    "time": "18:27:33.164",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "initSession",
+    "logMessage": "MethodeName : initSession;User [ID\u003dnull, name\u003dnull, age\u003dnull, email\u003dnull];no parameters given",
+    "user": {
+      "id": "null",
+      "name": "null",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:27:51.119",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setID",
+    "logMessage": "MethodeName : setID;User [ID\u003dnull, name\u003dnull, age\u003dnull, email\u003dnull];8e8bf05cb3d54d8bb09f1a66ea286ac6",
+    "user": {
+      "id": "null",
+      "name": "null",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:27:51.119",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setName",
+    "logMessage": "MethodeName : setName;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dnull, age\u003dnull, email\u003dnull];User 3",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "null",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:27:51.120",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setAge",
+    "logMessage": "MethodeName : setAge;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003dnull, email\u003dnull];31",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "null",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:27:51.120",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setEmail",
+    "logMessage": "MethodeName : setEmail;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003dnull];user3@hotmail.fr",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "null"
+    }
+  },
+  {
+    "time": "18:27:51.121",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "setPassword",
+    "logMessage": "MethodeName : setPassword;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];123",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.130",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];Product [ID\u003d1, name\u003dBread, price\u003d1.99, expirationDate\u003d12/02/2023]",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.130",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.131",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];1",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.133",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];Product [ID\u003d2, name\u003dPasta, price\u003d7.22, expirationDate\u003d10/02/2023]",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.133",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.133",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];2",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.133",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.134",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];Product [ID\u003d3, name\u003dEggs pack of 6, price\u003d3.99, expirationDate\u003d01/06/2023]",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.134",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.134",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];3",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.135",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.135",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.135",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];Product [ID\u003d4, name\u003dRice, price\u003d2.99, expirationDate\u003d01/12/2023]",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.135",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.136",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];4",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.136",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.136",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.136",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.137",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "addProduct",
+    "logMessage": "MethodeName : addProduct;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];Product [ID\u003d5, name\u003dChicken, price\u003d9.66, expirationDate\u003d06/12/2023]",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.137",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.138",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "checkProductById",
+    "logMessage": "MethodeName : checkProductById;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];5",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.138",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.138",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.138",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:51.139",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "18:27:52.405",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getAllProducts",
+    "logMessage": "MethodeName : getAllProducts;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:52:29.383",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getProductById",
+    "logMessage": "MethodeName : getProductById;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];5",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:52:29.400",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:52:29.401",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:52:29.401",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:52:29.401",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:52:29.401",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:52:51.350",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getProductById",
+    "logMessage": "MethodeName : getProductById;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];2",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:52:51.350",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:52:51.350",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:52:53.727",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getAllProducts",
+    "logMessage": "MethodeName : getAllProducts;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:05.121",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getProductById",
+    "logMessage": "MethodeName : getProductById;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];5",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:05.122",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:05.122",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:05.122",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:05.122",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:05.123",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:11.928",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getProductById",
+    "logMessage": "MethodeName : getProductById;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];5",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:11.928",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:11.928",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:11.928",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:11.928",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:53:11.929",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:54:11.027",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getProductById",
+    "logMessage": "MethodeName : getProductById;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];2",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:54:11.028",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  },
+  {
+    "time": "22:54:11.029",
+    "logLevel": "INFO",
+    "className": "-",
+    "mehodeName": "getID",
+    "logMessage": "MethodeName : getID;User [ID\u003d8e8bf05cb3d54d8bb09f1a66ea286ac6, name\u003dUser 3, age\u003d31, email\u003duser3@hotmail.fr];no parameters given",
+    "user": {
+      "id": "8e8bf05cb3d54d8bb09f1a66ea286ac6",
+      "name": "User 3",
+      "age": "31",
+      "email": "user3@hotmail.fr"
+    }
+  }
+]
